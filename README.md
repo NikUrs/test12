@@ -2,5 +2,5 @@
 
 <table>
   <th>Ячейка 1</th>
-  <td>Значение 1</td>
+  <td style="width:200px">Значение 1</td>
 </table>
