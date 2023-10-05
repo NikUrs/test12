@@ -14,6 +14,8 @@
   <th colspan="2"><h3>Checking</h3></th>
   <th><h3>Status</h3></th>
   <th><h3>Bug / Comments</h3></th>
+  <th><h3>Bug / Comments</h3></th>
+  <th><h3>Bug / Comments</h3></th>
 </tr>
 
 <tr>
@@ -41,5 +43,6 @@
   <td>Pass</td>
   <td></td>
 </tr>
+
 
 </table>
