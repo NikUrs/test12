@@ -17,7 +17,7 @@ Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11| #1 | #2 | #3 |
 Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 
 
-1. Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 
+Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | 2 | 3 | 1 | 2 | 3 | 1 | 2 | 3 | 1 | 2 | 3 |
 
