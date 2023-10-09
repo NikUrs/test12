@@ -27,10 +27,11 @@ ID | Summary | Preconditions | Steps | Test Data | Expected result | Actual resu
 <table style="width: 150%">
   
 <tr>
-  <th colspan="2"><h3>Checking</h3></th>
-  <th><h3>Status</h3></th>
+  <th><h3>Checking</h3></th>
+  <th colspan="2><h3>Status</h3></th>
+  <th colspan="2><h3>Bug / Comments</h3></th>
   <th><h3>Bug / Comments</h3></th>
-  <th><h3>Bug / Comments</h3></th>
+  <th colspan="2><h3>Bug / Comments</h3></th>
   <th><h3>Bug / Comments</h3></th>
   <th><h3>Bug / Comments</h3></th>
 </tr>
