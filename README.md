@@ -28,32 +28,22 @@ ID | Summary | Preconditions | Steps | Test Data | Expected result | Actual resu
   
 <tr>
   <th>ID</th>
-
+  <th colspan="2">Status</th>
+  <th colspan="2">Bug / Comments</th>
+  <th>Bug / Comments</th>
+  <th colspan="2">Bug / Comments</th>
+  <th>Bug / Comments</th>
+  <th>Bug / Comments</th>
 </tr>
 
 <tr>
   <td>1</td>
-
-</tr>
-<tr>
-  <td colspan="2">1. Installing / Uninstalling & launching the game</td>
-  <td>Pass</td>
-  <td></td>
-</tr>
-<tr>
-  <td colspan="2">1. Installing / Uninstalling & launching the game</td>
-  <td>Pass</td>
-  <td></td>
-</tr>
-<tr>
-  <td colspan="2">1.3. Launching</td>
-  <td>Pass</td>
-  <td></td>
-</tr>
-<tr>
-  <td colspan="2">1.4. Uninstalling</td>
-  <td>Pass</td>
-  <td></td>
+  <td colspan="2">Открытие страницы "Счётчики" после успешной авторизации</td>
+  <td colspan="2">1. Ввести в поле "Логин" (взять данные с колонки "Test Data").</td>
+  <td>Admin</td>
+  <td colspan="2">1. В поле "Логин" отображается значение: admin</td>
+  <td>As expected</td>
+  <td>Not run</td>
 </tr>
 
 
