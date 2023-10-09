@@ -38,9 +38,13 @@ ID | Summary | Preconditions | Steps | Test Data | Expected result | Actual resu
 </tr>
 
 <tr>
-  <td colspan="2"><h3>1. Installing / Uninstalling & launching the game</h3></td>
-  <td>1. Installing / Uninstalling & launching the game</td>
-  <td>1. Installing / Uninstalling & launching the game</td>
+  <td>1</td>
+  <td>Открытие страницы "Счётчики" после успешной авторизации</td>
+  <td>1. Ввести в поле "Логин" (взять данные с колонки "Test Data").</td>
+  <td>Admin</td>
+  <td>1. В поле "Логин" отображается значение: admin</td>
+  <td>As expected</td>
+  <td>Not run</td>
 </tr>
 <tr>
   <td colspan="2">1. Installing / Uninstalling & launching the game</td>
