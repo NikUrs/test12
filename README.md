@@ -18,7 +18,7 @@ Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 
 
 Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 1. Installing / Uninstalling & launching the game | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | 2 | 3 | 1 | 2 | 3 | 1 | 2 | 3 | 1 | 2 | 3 |
 
 
