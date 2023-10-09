@@ -64,7 +64,7 @@ ID | Summary | Preconditions | Steps | Test Data | Expected result | Actual resu
 </table>
 
 
-<table>
+<table style="width: 500px">
     <thead>
         <tr>
             <th>Column 1</th>
@@ -90,6 +90,7 @@ ID | Summary | Preconditions | Steps | Test Data | Expected result | Actual resu
         </tr>
     </tbody>
 </table>
+
 <table>
     <thead>
         <tr>
