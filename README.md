@@ -33,16 +33,14 @@ ID | Summary | Preconditions | Steps | Test Data | Expected result | Actual resu
   <th><h3>Bug / Comments</h3></th>
   <th><h3>Bug / Comments</h3></th>
   <th><h3>Bug / Comments</h3></th>
-  <th><h3>Bug / Comments</h3></th>
-  <th><h3>Bug / Comments</h3></th>
 </tr>
 
 <tr>
   <td>1</td>
-  <td>Открытие страницы "Счётчики" после успешной авторизации</td>
-  <td>1. Ввести в поле "Логин" (взять данные с колонки "Test Data").</td>
+  <td colspan="2">Открытие страницы "Счётчики" после успешной авторизации</td>
+  <td colspan="2">1. Ввести в поле "Логин" (взять данные с колонки "Test Data").</td>
   <td>Admin</td>
-  <td>1. В поле "Логин" отображается значение: admin</td>
+  <td colspan="2">1. В поле "Логин" отображается значение: admin</td>
   <td>As expected</td>
   <td>Not run</td>
 </tr>
