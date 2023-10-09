@@ -14,7 +14,7 @@ title, create, move
 
 
 
-<table style="display: inline-block">
+<table style="width: 150%">
   
 <tr>
   <th colspan="2"><h3>Checking</h3></th>
