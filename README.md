@@ -23,7 +23,7 @@ ID | Summary | Preconditions | Steps | Test Data | Expected result | Actual resu
 | --- | --- | ---  | 1. Ввести в поле "Логин" (взять данные с колонки "Test Data").	 | --- | --- | --- | --- |
 
 
-
+<br><br><br><br>
 <table style="width: 150%">
   
 <tr>
