@@ -30,7 +30,7 @@ ID | Summary | Preconditions | Steps | Test Data | Expected result | Actual resu
   <th>ID</th>
   <th colspan="4">Status</th>
   <th colspan="4">Bug / Comments</th>
-  <th>Bug / Comments</th>
+  <th>TEST data</th>
   <th colspan="4">Bug / Comments</th>
   <th>Bug / Comments</th>
   <th>Bug / Comments</th>
