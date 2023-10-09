@@ -28,20 +28,20 @@ ID | Summary | Preconditions | Steps | Test Data | Expected result | Actual resu
   
 <tr>
   <th>ID</th>
-  <th colspan="2">Status</th>
-  <th colspan="2">Bug / Comments</th>
+  <th colspan="3">Status</th>
+  <th colspan="3">Bug / Comments</th>
   <th>Bug / Comments</th>
-  <th colspan="2">Bug / Comments</th>
+  <th colspan="3">Bug / Comments</th>
   <th>Bug / Comments</th>
   <th>Bug / Comments</th>
 </tr>
 
 <tr>
   <td>1</td>
-  <td colspan="2">Открытие страницы "Счётчики" после успешной авторизации</td>
-  <td colspan="2">1. Ввести в поле "Логин" (взять данные с колонки "Test Data").</td>
+  <td colspan="3">Открытие страницы "Счётчики" после успешной авторизации</td>
+  <td colspan="3">1. Ввести в поле "Логин" (взять данные с колонки "Test Data").</td>
   <td>Admin</td>
-  <td colspan="2">1. В поле "Логин" отображается значение: admin</td>
+  <td colspan="3">1. В поле "Логин" отображается значение: admin</td>
   <td>As expected</td>
   <td>Not run</td>
 </tr>
