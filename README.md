@@ -27,13 +27,13 @@ ID | Summary | Preconditions | Steps | Test Data | Expected result | Actual resu
 <table style="width: 150%">
   
 <tr>
-  <th><h3>ID</h3></th>
-  <th colspan="2"><h3>Status</h3></th>
-  <th colspan="2"><h3>Bug / Comments</h3></th>
-  <th><h3>Bug / Comments</h3></th>
-  <th colspan="2"><h3>Bug / Comments</h3></th>
-  <th><h3>Bug / Comments</h3></th>
-  <th><h3>Bug / Comments</h3></th>
+  <th>ID</th>
+  <th colspan="2">Status</th>
+  <th colspan="2">Bug / Comments</th>
+  <th>Bug / Comments</th>
+  <th colspan="2">Bug / Comments</th>
+  <th>Bug / Comments</th>
+  <th>Bug / Comments</th>
 </tr>
 
 <tr>
