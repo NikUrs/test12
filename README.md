@@ -38,17 +38,17 @@ ID | Summary | Preconditions | Steps | Test Data | Expected result | Actual resu
 </tr>
 
 <tr>
-  <td colspan="2"><h3>1. Installing / Uninstalling <br>& launching the game</h3></td>
-  <td></td>
-  <td></td>
+  <td colspan="2"><h3>1. Installing / Uninstalling & launching the game</h3></td>
+  <td>1. Installing / Uninstalling & launching the game</td>
+  <td>1. Installing / Uninstalling & launching the game</td>
 </tr>
 <tr>
-  <td colspan="2">1.1. Download on the Steam</td>
+  <td colspan="2">1. Installing / Uninstalling & launching the game</td>
   <td>Pass</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.2. Installation</td>
+  <td colspan="2">1. Installing / Uninstalling & launching the game</td>
   <td>Pass</td>
   <td></td>
 </tr>
