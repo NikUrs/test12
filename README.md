@@ -35,7 +35,7 @@ ID | Summary | Preconditions | Steps | Test Data | Expected result | Actual resu
 </tr>
 
 <tr>
-  <td colspan="2"><h3>1. Installing / Uninstalling & launching the game</h3></td>
+  <td colspan="2"><h3>1. Installing / Uninstalling <br>& launching the game</h3></td>
   <td></td>
   <td></td>
 </tr>
