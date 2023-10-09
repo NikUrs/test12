@@ -39,7 +39,7 @@ tags: best, testing, qa, interview
 -------
 
 
-<table>
+<table style="overflow-x: auto">
   
 <tr>
   <th colspan="2"><h3>Checking</h3></th>
