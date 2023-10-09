@@ -27,7 +27,7 @@ ID | Summary | Preconditions | Steps | Test Data | Expected result | Actual resu
 <table style="width: 150%">
   
 <tr>
-  <th><h3>Checking</h3></th>
+  <th><h3>ID</h3></th>
   <th><h3>Status</h3></th>
   <th><h3>Bug / Comments</h3></th>
   <th><h3>Bug / Comments</h3></th>
