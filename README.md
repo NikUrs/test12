@@ -32,6 +32,9 @@ ID | Summary | Preconditions | Steps | Test Data | Expected result | Actual resu
   <th><h3>Bug / Comments</h3></th>
   <th><h3>Bug / Comments</h3></th>
   <th><h3>Bug / Comments</h3></th>
+  <th><h3>Bug / Comments</h3></th>
+  <th><h3>Bug / Comments</h3></th>
+  <th><h3>Bug / Comments</h3></th>
 </tr>
 
 <tr>
