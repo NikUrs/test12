@@ -104,4 +104,4 @@ ID | Summary | Preconditions | Steps | Test Data | Expected result | Actual resu
     </tbody>
 </table>
 
-<img src="https://github.com/NikUrs/test12/blob/main/Screenshot_1.png">
+<img src="https://github.com/NikUrs/test12/blob/main/Screenshot_1.png" style="width: 50%;">
