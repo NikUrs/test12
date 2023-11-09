@@ -1,0 +1,107 @@
+# test12
+
+---
+title, create, move
+---
+
+<table>
+  <th class="lock">Ячейка 1</th>
+  <td><a href="https://github.com/NikUrs/test12/blob/main/File_01.txt">Значение 1</a></td>
+</table>
+
+<table>
+
+
+Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11| #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |------ | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+
+
+ID | Summary | Preconditions | Steps | Test Data | Expected result | Actual result | Status | Bug#ID |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Открытие страницы "Счётчики" после успешной авторизации | 1. Сайт http://rynok1.prianet.com/ открыт.  | 1. Ввести в поле "Логин" (взять данные с колонки "Test Data").	 | 2 | 3 | 1 | 2 |
+| --- | --- | ---  | 1. Ввести в поле "Логин" (взять данные с колонки "Test Data").	 | --- | --- | --- | --- |
+
+
+<br><br><br><br>
+<table style="width: 150%">
+  
+<tr>
+  <th>ID</th>
+  <th colspan="4">Status</th>
+  <th colspan="4">Bug / Comments</th>
+  <th>TEST data</th>
+  <th colspan="4">Bug / Comments</th>
+  <th>Bug / Comments</th>
+  <th>Bug / Comments</th>
+</tr>
+
+<tr>
+  <td>1</td>
+  <td colspan="4">Открытие страницы "Счётчики" после успешной авторизации</td>
+  <td colspan="4">1. Ввести в поле "Логин" (взять данные с колонки "Test Data").</td>
+  <td>Admin</td>
+  <td colspan="4">1. В поле "Логин" отображается значение: admin</td>
+  <td>As expected</td>
+  <td>Not run</td>
+</tr>
+
+
+</table>
+
+
+<table style="width: 500px">
+    <thead>
+        <tr>
+            <th>Column 1</th>
+            <th>Column 2</th>
+            <th>Column 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=4 align="center">R1 Text</td>
+            <td rowspan=2 align="center">R2 Text A</td>
+            <td align="center">R3 Text A</td>
+        </tr>
+        <tr>
+            <td align="center">R3 Text B</td>
+        </tr>
+        <tr>
+            <td rowspan=2 align="center">R2 Text B</td>
+            <td align="center">R3 Text C</td>
+        </tr>
+        <tr>
+            <td align="center">R3 Text D</td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>Column 1</th>
+            <th>Column 2</th>
+            <th>Column 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=4 align="center">R1 Text</td>
+            <td rowspan=2 align="center">R2 Text A</td>
+            <td align="center">R3 Text A</td>
+        </tr>
+        <tr>
+            <td align="center">R3 Text B</td>
+        </tr>
+        <tr>
+            <td rowspan=2 align="center">R2 Text B</td>
+            <td align="center">R3 Text C</td>
+        </tr>
+        <tr>
+            <td align="center">R3 Text D</td>
+        </tr>
+    </tbody>
+</table>
+
+<img src="https://github.com/NikUrs/test12/blob/main/Screenshot_1.png" style="width: 80%;">
